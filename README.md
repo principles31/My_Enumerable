@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 # My_Enumerable
 In this project we learned how to use a module inside our class. For this we created a class MyList and a module MyEnumerable.  Module MyEnumerable will implement a subset of the functionality of Enumerable.
 
@@ -52,9 +53,9 @@ $ git clone (git@github.com:principles31/My_Enumerable.git)
 
 👤 ****
 
-- GitHub: https://
-- Twitter: https://
-- LinkedIn: https://
+- GitHub: [@felixodette](https://github.com/felixodette)
+- Twitter: [@Odette3000](https://twitter.com/@Odette3000)
+- LinkedIn: [Felix Odete](https://www.linkedin.com/in/felixodete)
 
 ## 🤝 Contributing
 
