@@ -1,6 +1,6 @@
 require_relative './enumerable'
 
-class MyList
+class MyLists
   include MyEnumerable
 
   def initialize(*list)
